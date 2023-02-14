@@ -70,3 +70,5 @@ A nota deste trabalho é a soma dos pontos abaixo. Será feita uma inspeção vi
 
 ## Observações demonstrações
 Resolução Utilizada: 1272 x 868
+
+![Print da tela da resolução definida](desafioCSS.png)
