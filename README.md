@@ -2,9 +2,9 @@
 
 DUPLA/TRIO:
 
-- DIGITE O NOME DO PRIMEIRO INTEGRANTE
-- DIGITE O NOME DO SEGUNDO INTEGRANTE
-- DIGITE O NOME DO TERCEIRO INTEGRANTE
+- Luca Mizrahi
+- Gustavo Oliveira
+
 - Link do GitHub Pages: COLOQUE O LINK AQUI (POR EXEMPLO: https://insper-tecnologias-web.github.io/desafio-css/)
 
 ## Desafio CSS
@@ -67,3 +67,6 @@ A nota deste trabalho é a soma dos pontos abaixo. Será feita uma inspeção vi
 - A nota de trabalhos com modificações em outros arquivos além do README.md e do [docs/getit.css](docs/getit.css) será limitada a no máximo 7 (equivalente ao conceito B). Modificações em outros arquivos devem ser explicitamente aprovadas pelo professor.
 - Para este trabalho você não precisa se preocupar com a versão mobile da página. Ela será testada apenas em um monitor.
 - Posicionamento absoluto não deve ser utilizado em nenhum elemento. Caso seja utilizado, o posicionamento não será considerado correto.
+
+## Observações demonstrações
+Resolução Utilizada: 1272 x 868
